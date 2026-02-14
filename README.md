@@ -1,4 +1,4 @@
-# FractalHeterogeneity
+# FractalPrefences
 
 ``The Fractal Nature and the Hausdorff Dimension of Individual Heterogeneity''
 

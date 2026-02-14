@@ -1,4 +1,7 @@
 # FractalHeterogeneity
+
+``The Fractal Nature and the Hausdorff Dimension of Individual Heterogeneity''
+
 A Vibe Research Project for Fun!
 
 Description of Vibe Research Workflow:
